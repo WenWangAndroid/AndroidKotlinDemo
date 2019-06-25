@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/none"
+        android:title="none" />
+    <item
+        android:id="@+id/fitStart"
+        android:title="fitStart" />
+    <item
+        android:id="@+id/fitCenter"
+        android:title="fitCenter" />
+    <item
+        android:id="@+id/fitEnd"
+        android:title="fitEnd" />
+    <item
+        android:id="@+id/fitXY"
+        android:title="fitXY" />
+    <item
+        android:id="@+id/center"
+        android:title="center" />
+    <item
+        android:id="@+id/centerCrop"
+        android:title="centerCrop" />
+    <item
+        android:id="@+id/centerInside"
+        android:title="centerInside" />
+</menu>
