@@ -23,7 +23,9 @@
         <activity
             android:name=".videoplay.VideoPlayActivity"
             android:screenOrientation="portrait" />
-
+        <activity
+            android:name=".banner.BannerActivity"
+            android:label="@string/BannerActivity" />
     </application>
 
 </manifest>
